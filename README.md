@@ -1,6 +1,6 @@
 # News App
 
-![News App cover](screenshots/cover.png)
+<img width="1365" height="768" alt="Gemini_Generated_Image_69gr8b69gr8b69gr" src="https://github.com/user-attachments/assets/1c13789d-f549-46c7-adae-a25e71aec844" />
 
 A Flutter news reader. It pulls articles from a remote news API, shows each one as a card with its image, and opens the full story in the browser.
 
